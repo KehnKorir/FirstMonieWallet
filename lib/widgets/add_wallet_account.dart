@@ -93,7 +93,7 @@ class _AddWalletAccountScreenState extends State<AddWalletAccountScreen>
 
                 // second tab
                 Tab(
-                  text: 'My Wallet',
+                  text: 'My abc wallet',
                 ),
               ],
             ),
