@@ -83,7 +83,7 @@ class _AddWalletAccountScreenState extends State<AddWalletAccountScreen>
               ),
               labelStyle: kTextLabelStyle,
               unselectedLabelStyle: kTextLabelStyle,
-              labelColor: Colors.black,
+              labelColor: Colors.red,
               unselectedLabelColor: Colors.black,
               tabs: const [
                 // first tab
